@@ -1,0 +1,22 @@
+body {
+    background-color: #cfebea;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+}
+
+.congratulation {
+    text-align: center;
+}
+
+.letterMain {
+    text-align: center;
+}
+
+.fromKW{
+    text-align: center;
+}
+
+.pictures {
+    margin-top: 100px;
+    text-align: center;
+}
